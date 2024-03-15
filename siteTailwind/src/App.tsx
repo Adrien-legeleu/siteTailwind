@@ -1,10 +1,11 @@
 import Page1 from "./pages/Page1"
+import Page2 from "./pages/Page2"
 
 const App = () => {
   return (
     <div>
-      <h1>rere</h1>
       <Page1/>
+      <Page2/>
     </div>
   )
 }
