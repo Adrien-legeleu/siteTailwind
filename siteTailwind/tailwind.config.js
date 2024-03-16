@@ -4,8 +4,7 @@ export default {
   theme: {
     extend: {
       boxShadow: {
-        xxlInset: " inset 0px -30px 50px 50px black",
-        mdInset: " inset 0px -10px 150px 20px black",
+        mdInset: " inset 0px -10px 150px 10px black",
       },
       borderRadius: {
         imgCity1: "26% 74% 32% 68% / 86% 21% 79% 14%  ",
